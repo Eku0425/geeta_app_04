@@ -28,5 +28,8 @@ Verse Display: Display individual verses (shloks) within each chapter with their
 <img src="https://github.com/user-attachments/assets/fb978aa4-147e-4b18-af1b-d43985dd7136"height= 25% width=25%>
 <img src="(https://github.com/user-attachments/assets/32d651cc-2623-4093-ae90-86591761db9c"height= 25% width=25%>
 
+https://github.com/user-attachments/assets/c65116dc-742e-4af0-b0c1-c6641f9d43ff
+
+
 
 
